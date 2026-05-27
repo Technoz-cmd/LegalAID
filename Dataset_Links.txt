@@ -1,0 +1,8 @@
+Dataset links used here 
+
+1. IndicQA
+https://huggingface.co/datasets/ai4bharat/IndicQA
+2. Indian Law Dataset
+https://huggingface.co/datasets/viber1/indian-law-dataset
+3. Legal Summarization
+https://huggingface.co/datasets/SaiCharanChetpelly/legal-summarization

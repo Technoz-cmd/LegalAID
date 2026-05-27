@@ -1,0 +1,44 @@
+{
+    "baseline": {
+        "summarisation": {
+            "rouge1": 0.3224,
+            "rouge2": 0.2161,
+            "rougeL": 0.2528,
+            "bleu": 0.1209
+        },
+        "qa": {
+            "rouge1": 0.4292,
+            "rouge2": 0.349,
+            "rougeL": 0.2962,
+            "bleu": 0.177
+        }
+    },
+    "fine tuned": {
+        "summarisation": {
+            "rouge1": 0.4289,
+            "rouge2": 0.3073,
+            "rougeL": 0.343,
+            "bleu": 0.2367
+        },
+        "qa": {
+            "rouge1": 0.5236,
+            "rouge2": 0.4963,
+            "rougeL": 0.4783,
+            "bleu": 0.3176
+        }
+    },
+    "rag": {
+        "qa": {
+            "rouge1": 0.6322,
+            "rouge2": 0.6049,
+            "rougeL": 0.6254,
+            "bleu": 0.4455
+        },
+        "summarisation": {
+            "rouge1": 0.5358,
+            "rouge2": 0.3827,
+            "rougeL": 0.4317,
+            "bleu": 0.3427
+        }
+    }
+}
